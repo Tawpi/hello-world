@@ -1,2 +1,3 @@
 # hello-world
-my first on gh!
+hi there everyone.
+Life is nothing but an experimental play.
